@@ -1,0 +1,32 @@
+{
+  "name": "unsupported-locale",
+  "version": "0.0.0",
+  "description": "Gracefully deal with unsupported locales by specifying locale limitations in any language and ways to overcome",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/unsupported-locale.git"
+  },
+  "keywords": [
+    "unsupported",
+    "locale",
+    "world",
+    "language",
+    "strings",
+    "i18n",
+    "namespace"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/unsupported-locale/issues"
+  },
+  "homepage": "https://github.com/Truemedia/unsupported-locale#readme",
+  "dependencies": {
+    "aws-translate-json": "^0.0.3",
+    "dotenv": "^8.2.0"
+  }
+}
