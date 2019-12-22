@@ -1,3 +1,3 @@
 module.exports = [
-  "pt", "it", "es"
+  "pt", "it", "es", "ja", "en"
 ]

@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unsupported Locales 0.0.0\n"
+"Language: en-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "emergency"
+msgstr "emergency"
+
+msgid "alert"
+msgstr "alert"
+
+msgid "critical"
+msgstr "critical"
+
+msgid "error"
+msgstr "error"
+
+msgid "warning"
+msgstr "warning"
+
+msgid "notice"
+msgstr "notice"
+
+msgid "info"
+msgstr "info"
+
+msgid "debug"
+msgstr "debug"
